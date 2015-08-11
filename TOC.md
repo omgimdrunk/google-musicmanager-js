@@ -1,0 +1,18 @@
+  * **[API Reference](INTRO.md)**
+  * gmusicmanager
+    * [Client](Client.md)
+      * [Client#constructor](Client#constructor.md)
+      * [Client#register](Client#register.md)
+      * [Client#upload](Client#upload.md)
+    * [Operation](Operation.md)
+      * [Operation#off](Operation#off.md)
+      * [Operation#on](Operation#on.md)
+      * [Operation#start](Operation#start.md)
+    * [protocol](protocol.md)
+      * [protocol#getDownloadLink](protocol#getDownloadLink.md)
+      * [protocol#getTracksToExport](protocol#getTracksToExport.md)
+      * [protocol#getUploadSession](protocol#getUploadSession.md)
+      * [protocol#readMetadata](protocol#readMetadata.md)
+      * [protocol#upAuth](protocol#upAuth.md)
+      * [protocol#uploadMetadatas](protocol#uploadMetadatas.md)
+      * [protocol#uploadSamples](protocol#uploadSamples.md)
